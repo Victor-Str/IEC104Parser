@@ -1,0 +1,7 @@
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\bin\Debug\IEC104Parser.exe.config
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\bin\Debug\IEC104Parser.exe
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\bin\Debug\IEC104Parser.pdb
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\obj\Debug\IEC104Parser.csproj.CoreCompileInputs.cache
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\obj\Debug\IEC104Parser.exe
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\obj\Debug\IEC104Parser.pdb
+C:\Users\Baderko-RV\source\repos\IEC104Parser\IEC104Parser\obj\Debug\IEC104Parser.csprojAssemblyReference.cache
